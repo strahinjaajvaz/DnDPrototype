@@ -1,0 +1,9 @@
+#root {
+    width: 200px;
+    height: 200px;
+}
+
+.knight {
+    display: block;
+    text-align: center;
+}
